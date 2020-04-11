@@ -6,4 +6,6 @@ function randomNoGenerator(min, max) {
   }
   
 
+  //This line should be written at end of your project
+  module.exports = randomNoGenerator;
   
